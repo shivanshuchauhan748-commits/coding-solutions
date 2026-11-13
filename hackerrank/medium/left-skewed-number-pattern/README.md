@@ -63,7 +63,7 @@ the pattern as shown in the example
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-13T13:46:43.809Z  
+**Submitted:** 2026-11-13T13:47:10.791Z  
 
 ```java
 import java.io.*;
